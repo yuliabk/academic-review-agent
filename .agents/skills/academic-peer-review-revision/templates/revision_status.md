@@ -1,0 +1,11 @@
+# Revision status
+- Manuscript and version:
+- Journal / article type / deadline:
+- Reviewer issues: total / verified / unresolved:
+- Major changes made:
+- Additional experiments: proposed / completed / verified:
+- Cross-document audit:
+- References and figures:
+- Submission gate: BLOCKED | READY WITH CAVEATS | READY
+- Unresolved blockers (with evidence):
+- Next action:
