@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Peer Review"
+  short_description: "Evidence-based manuscript audit and reviewer revision"
+  default_prompt: "Use the academic-peer-review-revision skill to audit this manuscript and build an evidence-grounded revision plan."
